@@ -7,7 +7,7 @@ class SeuNome:
     def __init__(self):
         self.name = "Gabriel Resende Meireles"
         self.acknowledgements = "Análise de dados e desenvolvimento Web"
-        self.primary_skillset = "Programação Python" 
+        self.primary_skillset = ["Programação Python", "Aprendizado de maquina"] 
         self.languages = ["Python", "JavaScript", "React", "Nestjs"]
 }
 ```
