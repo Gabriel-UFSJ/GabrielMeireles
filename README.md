@@ -8,7 +8,7 @@ class SeuNome:
         self.name = "Gabriel Resende Meireles"
         self.acknowledgements = "Análise de dados e desenvolvimento Web"
         self.primary_skillset = "Programação Python" 
-        self.languages = ["Python", "JavaScript", "TypeScript", "React", "Nestjs"]
+        self.languages = ["Python", "JavaScript", "React", "Nestjs"]
 }
 ```
 
