@@ -1,13 +1,13 @@
 ## Sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="500" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```python
 class Gabriel:
     def __init__(self):
         self.name = "Gabriel Resende Meireles"
         self.acknowledgements = "Análise de dados e desenvolvimento Web"
-        self.primary_skillset = ["Programação Python", "Aprendizado de maquina", "Programador BackEnd] 
+        self.primary_skillset = ["Programação Python", "Aprendizado de maquina", "Programador BackEnd"] 
         self.languages = ["Python", "JavaScript", "React", "Nestjs", "PHP Laravel", "GraphQL"]
 }
 ```
