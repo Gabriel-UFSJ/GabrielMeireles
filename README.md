@@ -12,6 +12,7 @@ class Gabriel:
 }
 ```
 
+<br></br>
 ## Linguagens e ferramentas
 
 <code><img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
