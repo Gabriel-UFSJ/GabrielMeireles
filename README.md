@@ -38,7 +38,7 @@ class Gabriel:
 ## Status
 
 <a href="https://github.com/Gabrimeireles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrimeireles&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrimeireles&theme=dracula&hide_langs_below=1&exclude_repo=data-science" />
 </a>
 
 <br></br>
