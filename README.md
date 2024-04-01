@@ -38,7 +38,7 @@ class Gabriel:
 ## Status
 
 <a href="https://github.com/Gabriel-UFSJ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-UFSJ&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrimeireles&theme=dracula&hide_langs_below=1" />
 </a>
 
 <br></br>
